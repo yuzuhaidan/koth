@@ -15,4 +15,4 @@ The lessons I learned from developing this project include but are not limited t
 Possible future considerations:
 
 As someone who now reviews this code with new eyes, I see the potential for Test Driven Development for this sort of project. I also think possibly offering a "computer" opponent would make this an even more robust project.
-I think creating a UI with images would enrich the user's experience.
+Creating a UI with images would enrich the user's experience.
